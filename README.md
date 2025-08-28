@@ -49,5 +49,3 @@ schreenshorts
 
 
 
-    txtUser.Focus();
-}
